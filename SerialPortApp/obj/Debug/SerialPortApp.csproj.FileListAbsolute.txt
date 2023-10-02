@@ -1,0 +1,10 @@
+C:\Users\sharan\source\repos\SerialPortApp\SerialPortApp\bin\Debug\SerialPortApp.exe.config
+C:\Users\sharan\source\repos\SerialPortApp\SerialPortApp\bin\Debug\SerialPortApp.exe
+C:\Users\sharan\source\repos\SerialPortApp\SerialPortApp\bin\Debug\SerialPortApp.pdb
+C:\Users\sharan\source\repos\SerialPortApp\SerialPortApp\obj\Debug\SerialPortApp.csproj.AssemblyReference.cache
+C:\Users\sharan\source\repos\SerialPortApp\SerialPortApp\obj\Debug\SerialPortApp.Form1.resources
+C:\Users\sharan\source\repos\SerialPortApp\SerialPortApp\obj\Debug\SerialPortApp.Properties.Resources.resources
+C:\Users\sharan\source\repos\SerialPortApp\SerialPortApp\obj\Debug\SerialPortApp.csproj.GenerateResource.cache
+C:\Users\sharan\source\repos\SerialPortApp\SerialPortApp\obj\Debug\SerialPortApp.csproj.CoreCompileInputs.cache
+C:\Users\sharan\source\repos\SerialPortApp\SerialPortApp\obj\Debug\SerialPortApp.exe
+C:\Users\sharan\source\repos\SerialPortApp\SerialPortApp\obj\Debug\SerialPortApp.pdb
